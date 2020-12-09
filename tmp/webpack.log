@@ -1,0 +1,228 @@
+Hash: [1m75ff33e8c2cb5b08ae55bf83b3036670c05de840[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+    Time: [1m2672[39m[22mms
+     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m           [1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mb4w.js[39m[22m  [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[emitted][39m[22m  [1m[33m[big][39m[22m  main
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [21] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [24] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/controls.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [26] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/util.js[39m[22m 13.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [27] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [30] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/scenes.js[39m[22m 63 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [32] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [33] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/camera.js[39m[22m 82 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [40] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/container.js[39m[22m 6.61 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [41] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/transform.js[39m[22m 24.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [49] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/input.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [50] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/screen.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [77] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/data.js[39m[22m 4.09 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [84] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+        + 105 hidden modules
+Child
+    Hash: [1mbf83b3036670c05de840[39m[22m
+    Time: [1m2315[39m[22mms
+     [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m           [1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mipc.js[39m[22m  [1m[33m291 kB[39m[22m       [1m0[39m[22m  [1m[32m[emitted][39m[22m  [1m[33m[big][39m[22m  main
+       [0] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [1] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/register.js[39m[22m 1.62 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [2] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec3.js[39m[22m 19.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [3] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [4] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [5] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/assert.js[39m[22m 4.39 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [6] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/util.js[39m[22m 67.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [9] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/print.js[39m[22m 4.69 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [10] [1mD:/dev/Praca inzynierska/blend4web_ce/uranium/index.js[39m[22m 101 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [11] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/ipc.js[39m[22m 21.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [12] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/math.js[39m[22m 13.5 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [13] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/tsr.js[39m[22m 21.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [14] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/generator.js[39m[22m 5.02 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [15] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/path.js[39m[22m 2.21 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+        + 1 hidden module
+Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+    Time: [1m168[39m[22mms
+     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mb4w.js[39m[22m  [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}
+      [21] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [24] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/controls.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [26] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/util.js[39m[22m 13.2 kB {[1m[33m0[39m[22m}
+      [27] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}
+      [30] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/scenes.js[39m[22m 63 kB {[1m[33m0[39m[22m}
+      [32] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}
+      [33] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/camera.js[39m[22m 82 kB {[1m[33m0[39m[22m}
+      [40] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/container.js[39m[22m 6.61 kB {[1m[33m0[39m[22m}
+      [41] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/transform.js[39m[22m 24.2 kB {[1m[33m0[39m[22m}
+      [49] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/input.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [50] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/screen.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}
+      [77] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/data.js[39m[22m 4.09 kB {[1m[33m0[39m[22m}
+      [84] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+        + 105 hidden modules
+Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+    Time: [1m541[39m[22mms
+     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mb4w.js[39m[22m  [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [21] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [24] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/controls.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [26] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/util.js[39m[22m 13.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [27] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [30] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/scenes.js[39m[22m 63 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [32] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [33] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/camera.js[39m[22m 82 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [40] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/container.js[39m[22m 6.61 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [41] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/transform.js[39m[22m 24.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [49] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/input.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [50] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/screen.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [77] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/data.js[39m[22m 4.09 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [84] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}
+        + 105 hidden modules
+Hash: [1mbf83b3036670c05de840[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1mbf83b3036670c05de840[39m[22m
+    Time: [1m555[39m[22mms
+     [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mipc.js[39m[22m  [1m[33m291 kB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [0] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [1] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/register.js[39m[22m 1.62 kB {[1m[33m0[39m[22m}
+       [2] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec3.js[39m[22m 19.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [3] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [4] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [5] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/assert.js[39m[22m 4.39 kB {[1m[33m0[39m[22m}
+       [6] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/util.js[39m[22m 67.2 kB {[1m[33m0[39m[22m}
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [9] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/print.js[39m[22m 4.69 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [10] [1mD:/dev/Praca inzynierska/blend4web_ce/uranium/index.js[39m[22m 101 bytes {[1m[33m0[39m[22m}
+      [11] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/ipc.js[39m[22m 21.1 kB {[1m[33m0[39m[22m}
+      [12] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/math.js[39m[22m 13.5 kB {[1m[33m0[39m[22m}
+      [13] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/tsr.js[39m[22m 21.8 kB {[1m[33m0[39m[22m}
+      [14] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/generator.js[39m[22m 5.02 kB {[1m[33m0[39m[22m}
+      [15] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/path.js[39m[22m 2.21 kB {[1m[33m0[39m[22m}
+        + 1 hidden module
+Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+    Time: [1m752[39m[22mms
+     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mb4w.js[39m[22m  [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}
+      [21] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [24] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/controls.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [26] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/util.js[39m[22m 13.2 kB {[1m[33m0[39m[22m}
+      [27] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}
+      [30] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/scenes.js[39m[22m 63 kB {[1m[33m0[39m[22m}
+      [32] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}
+      [33] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/camera.js[39m[22m 82 kB {[1m[33m0[39m[22m}
+      [40] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/container.js[39m[22m 6.61 kB {[1m[33m0[39m[22m}
+      [41] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/transform.js[39m[22m 24.2 kB {[1m[33m0[39m[22m}
+      [49] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/input.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [50] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/screen.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}
+      [77] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/data.js[39m[22m 4.09 kB {[1m[33m0[39m[22m}
+      [84] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}
+        + 105 hidden modules
+Hash: [1mbf83b3036670c05de840[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1mbf83b3036670c05de840[39m[22m
+    Time: [1m786[39m[22mms
+     [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mipc.js[39m[22m  [1m[33m291 kB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [0] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}
+       [1] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/register.js[39m[22m 1.62 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [2] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec3.js[39m[22m 19.8 kB {[1m[33m0[39m[22m}
+       [3] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}
+       [4] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}
+       [5] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/assert.js[39m[22m 4.39 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [6] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/util.js[39m[22m 67.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+       [9] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/print.js[39m[22m 4.69 kB {[1m[33m0[39m[22m}
+      [10] [1mD:/dev/Praca inzynierska/blend4web_ce/uranium/index.js[39m[22m 101 bytes {[1m[33m0[39m[22m}
+      [11] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/ipc.js[39m[22m 21.1 kB {[1m[33m0[39m[22m}
+      [12] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/math.js[39m[22m 13.5 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [13] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/tsr.js[39m[22m 21.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [14] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/generator.js[39m[22m 5.02 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [15] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/path.js[39m[22m 2.21 kB {[1m[33m0[39m[22m}
+        + 1 hidden module
+Hash: [1mbf83b3036670c05de840[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1mbf83b3036670c05de840[39m[22m
+    Time: [1m892[39m[22mms
+     [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mipc.js[39m[22m  [1m[33m291 kB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [0] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}
+       [1] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/register.js[39m[22m 1.62 kB {[1m[33m0[39m[22m}
+       [2] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec3.js[39m[22m 19.8 kB {[1m[33m0[39m[22m}
+       [3] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}
+       [4] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}
+       [5] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/assert.js[39m[22m 4.39 kB {[1m[33m0[39m[22m}
+       [6] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/util.js[39m[22m 67.2 kB {[1m[33m0[39m[22m}
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+       [9] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/print.js[39m[22m 4.69 kB {[1m[33m0[39m[22m}
+      [10] [1mD:/dev/Praca inzynierska/blend4web_ce/uranium/index.js[39m[22m 101 bytes {[1m[33m0[39m[22m}
+      [11] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/ipc.js[39m[22m 21.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [12] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/math.js[39m[22m 13.5 kB {[1m[33m0[39m[22m}
+      [13] [1mD:/dev/Praca inzynierska/blend4web_ce/src/intern/tsr.js[39m[22m 21.8 kB {[1m[33m0[39m[22m}
+      [14] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/generator.js[39m[22m 5.02 kB {[1m[33m0[39m[22m}
+      [15] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/path.js[39m[22m 2.21 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+        + 1 hidden module
+Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+    Time: [1m920[39m[22mms
+     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mb4w.js[39m[22m  [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}
+      [21] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [24] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/controls.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [26] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/util.js[39m[22m 13.2 kB {[1m[33m0[39m[22m}
+      [27] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}
+      [30] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/scenes.js[39m[22m 63 kB {[1m[33m0[39m[22m}
+      [32] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}
+      [33] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/camera.js[39m[22m 82 kB {[1m[33m0[39m[22m}
+      [40] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/container.js[39m[22m 6.61 kB {[1m[33m0[39m[22m}
+      [41] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/transform.js[39m[22m 24.2 kB {[1m[33m0[39m[22m}
+      [49] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/input.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [50] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/screen.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}
+      [77] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/data.js[39m[22m 4.09 kB {[1m[33m0[39m[22m}
+      [84] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}
+        + 105 hidden modules
+Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1m75ff33e8c2cb5b08ae55[39m[22m
+    Time: [1m79[39m[22mms
+     [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m       [1mChunk Names[39m[22m
+    [1m[33mb4w.js[39m[22m  [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[39m[22m[1m[33m[big][39m[22m  main
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}
+      [21] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat4.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [24] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/controls.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [26] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/util.js[39m[22m 13.2 kB {[1m[33m0[39m[22m}
+      [27] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/mat3.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}
+      [30] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/scenes.js[39m[22m 63 kB {[1m[33m0[39m[22m}
+      [32] [1mD:/dev/Praca inzynierska/blend4web_ce/src/util/b4w.js[39m[22m 7.78 kB {[1m[33m0[39m[22m}
+      [33] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/camera.js[39m[22m 82 kB {[1m[33m0[39m[22m}
+      [40] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/container.js[39m[22m 6.61 kB {[1m[33m0[39m[22m}
+      [41] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/transform.js[39m[22m 24.2 kB {[1m[33m0[39m[22m}
+      [49] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/input.js[39m[22m 37.1 kB {[1m[33m0[39m[22m}
+      [50] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/screen.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}
+      [77] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/data.js[39m[22m 4.09 kB {[1m[33m0[39m[22m}
+      [84] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}
+        + 105 hidden modules

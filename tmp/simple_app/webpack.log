@@ -1,0 +1,32 @@
+Hash: [1ma855a06f66c471fa5963[39m[22m
+Version: webpack [1m3.9.1[39m[22m
+Child
+    Hash: [1ma855a06f66c471fa5963[39m[22m
+    Time: [1m4935[39m[22mms
+                    [1mAsset[39m[22m       [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m           [1m[39m[22m       [1mChunk Names[39m[22m
+        [1m[33mb4w_app_bundle.js[39m[22m    [1m[33m5.26 MB[39m[22m       [1m0[39m[22m  [1m[32m[emitted][39m[22m  [1m[33m[big][39m[22m  main
+    [1m[32mb4w_app_bundle.js.map[39m[22m    6.17 MB       [1m0[39m[22m  [1m[32m[emitted][39m[22m         main
+          [1m[32msimple_app.html[39m[22m  438 bytes        [1m[39m[22m  [1m[32m[emitted][39m[22m         
+       [7] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/vec4.js[39m[22m 14.7 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+       [8] [1mD:/dev/Praca inzynierska/blend4web_ce/src/libs/gl_matrix/quat.js[39m[22m 16.6 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [61] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/main.js[39m[22m 16.8 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [84] [1mmulti D:/dev/Praca inzynierska/blend4web_ce/projects/simple_app/simple_app.js[39m[22m 28 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [85] [1mD:/dev/Praca inzynierska/blend4web_ce/projects/simple_app/simple_app.js[39m[22m 2.44 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+      [86] [1mD:/dev/Praca inzynierska/blend4web_ce/index.js[39m[22m 6.44 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [111] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/hud.js[39m[22m 2.27 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [112] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/lights.js[39m[22m 16.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [113] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/logic_nodes.js[39m[22m 2.32 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [114] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/material.js[39m[22m 67 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [115] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/math.js[39m[22m 15.2 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [116] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/nla.js[39m[22m 5.43 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [117] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/objects.js[39m[22m 16.1 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [118] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/particles.js[39m[22m 3.67 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+     [119] [1mD:/dev/Praca inzynierska/blend4web_ce/src/extern/rgb.js[39m[22m 4.54 kB {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+        + 107 hidden modules
+    Child [1mhtml-webpack-plugin for "simple_app.html"[39m[22m:
+                  [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+        [1m[32msimple_app.html[39m[22m  544 kB       [1m0[39m[22m  [1m[32m[39m[22m
+           [0] [1mD:/dev/Praca inzynierska/blend4web_ce/node_modules/html-webpack-plugin/lib/loader.js!D:/dev/Praca inzynierska/blend4web_ce/projects/simple_app/simple_app.html[39m[22m 781 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+           [2] [1m(webpack)/buildin/global.js[39m[22m 509 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+           [3] [1m(webpack)/buildin/module.js[39m[22m 517 bytes {[1m[33m0[39m[22m}[1m[32m [built][39m[22m
+            + 1 hidden module
