@@ -1,4 +1,5 @@
-import b4w from "blend4web";
+//import b4w from "blend4web";
+import b4w from "../../../dist/b4w.js";
 
 var m_app       = b4w.app;
 var m_cam       = b4w.camera;
