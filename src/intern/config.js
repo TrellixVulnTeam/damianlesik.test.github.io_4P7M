@@ -331,7 +331,7 @@ exports.physics = {
     uranium_path: "",
     uranium_bin: "",
     // relative to engine sources (default value for developer version)
-    uranium_path_default: "B4W_URANIUM_PATH=/dist/uranium/",
+    uranium_path_default: "B4W_URANIUM_PATH=../../dist/uranium/",
     asmjs_file: "uranium.js",
     wasmjs_file: "uranium_wasm.js",
     mem_file: "uranium.js.mem",
