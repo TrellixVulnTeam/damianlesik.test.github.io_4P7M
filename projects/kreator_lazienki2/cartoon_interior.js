@@ -1,4 +1,4 @@
-import b4w from "../../index.js";
+import b4w from "blend4web";
 
 var m_app       = b4w.app;
 var m_cam       = b4w.camera;
@@ -32,7 +32,6 @@ var WALL_X_MIN = -3.8;
 var WALL_Y_MAX = 0.8;
 var WALL_Y_MIN = -4.2;
 var APP_ASSETS_PATH = m_cfg.get_assets_path("kreator_lazienki2");
-APP_ASSETS_PATH = "./assets/";
 
 var ASSETS_PATH = APP_ASSETS_PATH;
 var TEX_ASSETS_PATH = APP_ASSETS_PATH + "textures/";
@@ -607,7 +606,9 @@ function loaded_cb(data_id) {
          //hide outline of objects on init
         var objectName = m_scenes.get_object_name(objs[i]);
             if(objectName.includes("Outline")){
-                m_scenes.hide_object(objs[i]); 
+                if(!isClearView){
+                    m_scenes.hide_object(objs[i]); 
+                }
             }
 
         
@@ -1863,7 +1864,14 @@ function initWallControls(){
 
     var doorWidthInput = document.getElementById("doorWidth");
     doorWidthInput.oninput = function(){
-        var value = doorWidthInput.value-64;
+        var value = doorWidthInput.value-74;
+        var arrayOfChildren = m_scenes.get_object_children(_selected_obj);
+        for (var i = 0; i < arrayOfChildren.length; i++){
+            var objectName = m_scenes.get_object_name(arrayOfChildren[i]);
+            if(objectName.includes("Outline")){
+                m_geom.set_shape_key_value(arrayOfChildren[i], "length", value);
+            }
+        }
         m_geom.set_shape_key_value(_selected_obj, "length", value);
     }
 
