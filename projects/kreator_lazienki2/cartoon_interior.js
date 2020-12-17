@@ -1,4 +1,4 @@
-import b4w from "blend4web";
+import b4w from "../../index.js";
 
 var m_app       = b4w.app;
 var m_cam       = b4w.camera;
@@ -32,7 +32,7 @@ var WALL_X_MIN = -3.8;
 var WALL_Y_MAX = 0.8;
 var WALL_Y_MIN = -4.2;
 var APP_ASSETS_PATH = m_cfg.get_assets_path("kreator_lazienki2");
-
+APP_ASSETS_PATH = "./assets/";
 var ASSETS_PATH = APP_ASSETS_PATH;
 var TEX_ASSETS_PATH = APP_ASSETS_PATH + "textures/";
 
